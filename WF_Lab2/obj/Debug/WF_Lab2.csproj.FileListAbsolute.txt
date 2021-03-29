@@ -1,0 +1,11 @@
+D:\C#\WF_Lab2\WF_Lab2\bin\Debug\WF_Lab2.exe.config
+D:\C#\WF_Lab2\WF_Lab2\bin\Debug\WF_Lab2.exe
+D:\C#\WF_Lab2\WF_Lab2\bin\Debug\WF_Lab2.pdb
+D:\C#\WF_Lab2\WF_Lab2\obj\Debug\WF_Lab2.csprojAssemblyReference.cache
+D:\C#\WF_Lab2\WF_Lab2\obj\Debug\WF_Lab2.Properties.Resources.resources
+D:\C#\WF_Lab2\WF_Lab2\obj\Debug\WF_Lab2.csproj.GenerateResource.cache
+D:\C#\WF_Lab2\WF_Lab2\obj\Debug\WF_Lab2.csproj.CoreCompileInputs.cache
+D:\C#\WF_Lab2\WF_Lab2\obj\Debug\WF_Lab2.exe
+D:\C#\WF_Lab2\WF_Lab2\obj\Debug\WF_Lab2.pdb
+D:\C#\WF_Lab2\WF_Lab2\obj\Debug\WF_Lab2.frmContact.resources
+D:\C#\WF_Lab2\WF_Lab2\obj\Debug\WF_Lab2.frmEdit.resources
